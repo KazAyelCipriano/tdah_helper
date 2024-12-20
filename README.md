@@ -1,12 +1,8 @@
-# Personal IA TDAH Helper
+# Personal AI TDAH Helper
 
 ## Overview
 
-**Personal IA TDAH Helper** is an AI-powered personal assistant designed to help individuals with Attention Deficit Hyperactivity Disorder (ADHD, or TDAH in Spanish) manage their daily tasks and responsibilities. This Python-based project leverages artificial intelligence to address the unique challenges faced by people with TDAH, such as staying organized, meeting deadlines, and maintaining focus.
-
-## Small Description
-
-An AI-powered assistant to help individuals with TDAH stay organized, manage tasks, and meet deadlines effectively.
+**Personal AI TDAH Helper** is an AI-powered personal assistant designed to help individuals with Attention Deficit Hyperactivity Disorder (ADHD, or TDAH in Spanish) manage their daily tasks and responsibilities. This Python-based project leverages artificial intelligence to address the unique challenges faced by people with TDAH, such as staying organized, meeting deadlines, and maintaining focus.
 
 ## Features
 
@@ -26,7 +22,7 @@ People with TDAH often face difficulties such as:
 - **Disorganization**: Finding it challenging to keep track of responsibilities.
 - **Overwhelm**: Feeling paralyzed by too many tasks or responsibilities.
 
-The **Personal IA TDAH Helper** aims to provide practical tools and strategies to mitigate these difficulties, empowering users to lead more organized and productive lives.
+The **Personal AI TDAH Helper** aims to provide practical tools and strategies to mitigate these difficulties, empowering users to lead more organized and productive lives.
 
 ## Getting Started
 
@@ -39,11 +35,11 @@ The **Personal IA TDAH Helper** aims to provide practical tools and strategies t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/personal-ia-tdah-helper.git
+   git clone https://github.com/yourusername/tdah-helper.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd personal-ia-tdah-helper
+   cd tdah-helper
    ```
 3. Install dependencies:
    ```bash
